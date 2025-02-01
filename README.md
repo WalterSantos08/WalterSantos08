@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 # Oi! Eu sou Walter Santos
 
