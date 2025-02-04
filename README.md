@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=WalterSantos08&color=006bed)
 
-# Oi,Eu sou Walter Santos!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a5fad&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1a5fad&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+É+WALTER+SANTOS;SEJA+VINDO+AO+MEU+GIT+HUB!;+FIQUE+À+VONTADE+PARA+OLHARr+,+USAR+E+CONTRIBUIR!:%29)](https://git.io/typing-svg)
 
 **`Desenvolvedor Back End`**
 
